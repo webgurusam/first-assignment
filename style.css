@@ -1,3 +1,153 @@
 body{
+    font-family: 'Secular One', sans-serif;
     margin: 0;
+    color: #333333;
 }
+h1,h2,h3,h4,h5,h6{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.center{
+    text-align: center;
+}
+.flexible-container{
+    display: flex;
+    padding: 0 10%;
+    margin-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+}
+.mission-text{
+    margin-top: 10%;
+}
+.mission-text h1{
+    color: #333333;
+    background-image: url(images/shapes/line.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+    height: 140px;
+}
+.mission-text p{
+    width: 80%;
+}
+.link-button{
+    background-color: #5984ff;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 35px;
+    display: inline-block;
+}
+.mission-text small{
+    display: block;
+    margin-top: 5%;
+}
+.violet-color{
+    color: #5a5fff;
+}
+.mission-person img{
+    width: 75%;
+}
+.my-mission h1{
+    margin-bottom: 30px;
+    color: #13103A;
+}
+#mission{
+    background-color: #e7ddf3;
+}
+#vission{
+    background-color: #dddff1;
+    margin: 0 2%;
+}
+#goals{
+    background-color: #f1e3dd;
+}
+.single-part-mission{
+    width: 32%;
+    border-radius: 7%;
+    padding: 25px;
+}
+.single-part-mission img{
+    width: 40%;
+}
+.single-part-mission h3{
+    font-size: 25px;
+}
+.single-part-mission p{
+    color: #424242;
+}
+.coding, .project{
+    width: 35%;
+}
+.coding img, .project img{
+    width: 100%;
+}
+.develop, .community{
+    width: 58%;
+    padding-top: 5%;
+    margin-left: 7%;
+}
+.develop h1, .community h1{
+    font-size: 32px;
+}
+.develop p, .community p{
+    color: #525252;
+    width: 95%;
+}
+.community{
+    margin-left: 0;
+    margin-right: 7%;
+}
+.our-team h1{
+    color: black;
+    margin-bottom: 3%;
+}
+.our-team-profile{}
+.single-profile-part{
+    width: 23.5%;
+    margin-right: 2%;
+}
+#margin-off{
+    margin-right: 0%;
+}
+.single-profile-part img{
+    width: 100%;
+}
+.profile-info{
+    padding-left: 5%;
+}
+.profile-info h1{}
+.profile-info p{
+    margin: 0;
+    color: #CDCDCD;
+}
+.stay-safe{
+    padding-top: 5%;
+}
+.stay-safe p{
+    width: 90%;
+}
+.mission-hard-work{
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 3% 0;
+}
+.mission-hard-work h1{
+    color: #fff;
+    font-size: 26px;
+}
+.pink-color{
+    color: #e9fd46;
+}
+.mission-hard-work p{
+    color: #B7B9BF;
+}
+
